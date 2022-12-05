@@ -2,6 +2,8 @@
 
 Este proyecto fue creado siguiendo el tutorial de freeCodeCamp, utilizando React Js.
 
+![Tareas](https://res.cloudinary.com/dyfvpilfz/image/upload/v1670259733/Tareas_nmma3y.png)
+
 Link para ver el proyecto deployado
 _[Lista de Tareas](https://tareas-freecodecamp.netlify.app/)_
 <br>
